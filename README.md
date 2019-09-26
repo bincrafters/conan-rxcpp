@@ -2,7 +2,7 @@
 
 | Bintray | Appveyor | Travis | 
 |---------|-----------|--------|
-|[![Download](https://api.bintray.com/packages/bincrafters/public-conan/rxcpp%3Abincrafters/images/download.svg)](https://bintray.com/bincrafters/public-conan/rxcpp%3Abincrafters/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/k2w7or3hl5jr49e0?svg=true)](https://ci.appveyor.com/project/BinCrafters/conan-rxcpp)|[![Build Status](https://travis-ci.org/bincrafters/conan-rxcpp.svg?branch=stable%2F4.0.0)](https://travis-ci.org/bincrafters/conan-rxcpp)|
+|[![Download](https://api.bintray.com/packages/bincrafters/public-conan/rxcpp%3Abincrafters/images/download.svg)](https://bintray.com/bincrafters/public-conan/rxcpp%3Abincrafters/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/k2w7or3hl5jr49e0?svg=true)](https://ci.appveyor.com/project/BinCrafters/conan-rxcpp)|[![Build Status](https://travis-ci.com/bincrafters/conan-rxcpp.svg?branch=stable%2F4.0.0)](https://travis-ci.com/bincrafters/conan-rxcpp)|
 
 ## Conan.io Information
 
