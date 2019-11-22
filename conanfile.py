@@ -7,7 +7,6 @@ class RxcppConan(ConanFile):
     version = "4.1.0"
     url = "https://github.com/bincrafters/conan-rxcpp"
     homepage = "https://github.com/ReactiveX/RxCpp"
-    author = "Bincrafters <bincrafters@gmail.com>"
     description = "Library for composing operations on streams of asynchronous events."
     license = "Apache-2.0"
     topics = ("conan", "rxcpp", "reactivex", "algorithms", "values-distributed-in-time")
