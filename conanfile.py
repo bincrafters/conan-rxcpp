@@ -10,7 +10,6 @@ class RxcppConan(ConanFile):
     description = "Library for composing operations on streams of asynchronous events."
     license = "Apache-2.0"
     topics = ("conan", "rxcpp", "reactivex", "algorithms", "values-distributed-in-time")
-    exports = ["LICENSE.md"]
     _source_subfolder = "source_subfolder"
 
     def source(self):
